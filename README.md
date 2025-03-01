@@ -51,16 +51,20 @@ Obtener la lista de productos mediante un endpoint GET /productos
 curl -X GET http://localhost:8080/productos
 ```
 
+
 ![Image](https://github.com/user-attachments/assets/cece5502-df9a-4622-a7a2-555f706a65ff)
+
 
 
 
 Obtener un producto por su ID mediante un endpoint GET /productos/{id}.
 
 
+
 ```bash
 curl -X GET http://localhost:8080/productos/1
 ```
+
 
 
 ![Image](https://github.com/user-attachments/assets/b203c5e8-17bd-4417-8874-cd55b1c2a7ec)
